@@ -1,2 +1,2 @@
-# gin-api
-This is template repo to create Gin api.
+# ims-product-service
+Product service to interact with products.
