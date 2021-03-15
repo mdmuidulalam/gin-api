@@ -1,2 +1,2 @@
-# ims-product-service
-Product service to interact with products.
+# Gin Api
+A gin api template to create new gin api repository. 
