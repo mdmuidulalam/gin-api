@@ -1,9 +1,9 @@
 package main
 
 import (
+	"gin-api/config"
 	"log"
 	"os"
-	"product-service/config"
 	"runtime/debug"
 
 	"github.com/gin-gonic/gin"

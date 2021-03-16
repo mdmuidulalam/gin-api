@@ -1,4 +1,4 @@
-module product-service
+module gin-api
 
 go 1.16
 
